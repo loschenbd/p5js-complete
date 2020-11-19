@@ -1,0 +1,11 @@
+{
+  "name": "p5js-complete",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://loschenbd@github.com/loschenbd/p5js-complete.git",
+  "author": "Benjamin Loschen <loschenbd@gmail.com>",
+  "license": "MIT",
+  "dependencies": {
+    "nodemon": "^2.0.6"
+  }
+}
